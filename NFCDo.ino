@@ -12,6 +12,8 @@ const char* password = "YOUR_WIFI_PASSWORD";
 
 // =====================================================
 //                  PN532 I2C
+// note: to setup I2C on the PN532 => switch 1 : ON
+//                                    switch 2 : OFF
 // =====================================================
 
 #define SDA_PIN 21
